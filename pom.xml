@@ -10,6 +10,8 @@
         <module>first-servlet</module>
         <module>servlet-form</module>
         <module>usermanager</module>
+        <module>usermanage-jdbc</module>
+        <module>hello-servlet</module>
     </modules>
 
     <dependencies>
